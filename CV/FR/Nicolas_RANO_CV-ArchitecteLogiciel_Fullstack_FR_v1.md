@@ -1,14 +1,13 @@
-# Nicolas RANO
-**Architecte Logiciel Fullstack Senior (.NET | React | Vue | Node | MongoDB)**
+# Nicolas RANO - Architecte Logiciel Fullstack Senior (.NET | React | Vue | Node | MongoDB)
 
  Paris, France (UTC+1/UTC+2) |  guajavasas@gmail.com |  +33 6 84 26 61 32
-[LinkedIn](https://www.linkedin.com/in/nrano/) | [GitHub](https://github.com/guajava-sasu)
+[LinkedIn](https://www.linkedin.com/in/nicolas-rano-8a319038) | [GitHub](https://github.com/guajava-sasu)
 
 ---
 
 ## Résumé professionnel
 Architecte, Développeur Fullstack et Techlead avec **11+ ans d’expérience** dans les environnements :
-**.NET (Core, MVC, Sql Server)** et **JavaScript (React, Vue, Angular, Node)**.
+**.NET (Core, MVC, Sql Server)** et **TypeScript (React, Vue, Angular, Node)**.
 Spécialisé en **architectures orientées données**, intégration d’API et optimisation des performances, maintenance et modernisation d’applications.
 **Certifié MongoDB** (Developer Associate, Data Modeler Associate, Database Administrator).
 Domaines : banque, assurance, e-commerce, grande distribution, énergie, restauration.
@@ -16,7 +15,7 @@ Domaines : banque, assurance, e-commerce, grande distribution, énergie, restaur
 ---
 
 ## Compétences
-- **Langages & Frameworks** : C#/.NET (Framework & Core), Java, Python, ASP.NET MVC, Node.js, TypeScript, JavaScript, React, Vue.js, Angular, SQL, Entity Framework
+- **Langages & Frameworks** : C#/.NET (Framework & Core), Java, Python, ASP.NET MVC, Node.js, TypeScript, React, Vue.js, Angular, SQL, Entity Framework
 - **Bases de données** : MongoDB, SQL Server, Oracle
 - **Dev & Ops** : Git/GitHub, TFS/Azure DevOps, CI/CD (YAML), Ubuntu/Hostinger, Keycloak (OIDC), SignalR, Stripe, REST/HTTPS/SSL
 - **Méthodes** : Scrum/Kanban, Clean Architecture, TDD (notions)
@@ -34,18 +33,21 @@ Domaines : banque, assurance, e-commerce, grande distribution, énergie, restaur
 ---
 
 ## Expériences professionnelles
-- Définition de l’architecture applicative (front/back)
-- Conception et optimisation d’IHM performantes
-- Tests unitaires, d’intégration et de non-régression
-- Structuration de backlog et élaboration du plan de développement pour guider les équipes
-- Livraison et déploiement à l’international des applicatifs avec couverture de tests et pipeline CI/CD
-- Amélioration de procédures stockées SQL
-- Mise en place d’index, d’agrégation et projections MongoDB
+- Définition de l’architecture applicative ( front / back / infra / déploiement)
+- Gestion d'équipe, techleading, prise de leadership de 2 à  10 personnes
+- Conception et optimisation d’IHM performantes reduction systématique des affichage à moins de 1 seconde
+- Tests unitaires, d’intégration et de non-régression reduction de la dette technique de 25%
+- Rédaction des taches du backlog
+- Structuration de backlog et élaboration du plan de développement pour guider les équipes 
+- Livraison et déploiement à l’international des applicatifs avec couverture de tests et pipeline CI/CD 
+- Amélioration de requetes et procédures stockées SQL reduction systématique du temps de recherche à moins de 1 seconde
+- Mise en place d’index, d’aggrégation et projections, et remodélisation des données, MongoDB 
+- Reduction le temps de recherches en millisecondes systématiques, MongoDB
 - Conception d’IHM ergonomiques
 - Rédaction du cahier des charges
-- Conception d’API REST sécurisée (JWT/OIDC via Keycloak)
+- Conception d’API REST sécurisée (JWT / OIDC via Keycloak, Auth0)
 - Migrations EF Core et API sécurisée 
-- Gestion d'équipe de 2 à  10 personnes
+- Intervention en urgence pour résolution de problématiques critiques (Areva)
 
 ---
 
@@ -54,7 +56,7 @@ Domaines : banque, assurance, e-commerce, grande distribution, énergie, restaur
 1. AVM-Intégration
 2. Atimeus
 3. Ageas
-4. Areva
+4. Areva / Orano
 5. COFACE
 6. E.LECLERC
 7. FnacDarty (Plusieur missions)
@@ -73,7 +75,7 @@ Domaines : banque, assurance, e-commerce, grande distribution, énergie, restaur
 ---
 
 ## Formation
-- **Architecte Logiciel** — AFCEPF/EQL (2014–2016)
+- **Master II - Architecte Logiciel** — AFCEPF/EQL (2014–2016)
 - **Master II – Ingénieur Systèmes Énergétiques** — ESME-Sudria (2005–2010)
 
 ---
