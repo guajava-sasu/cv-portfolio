@@ -131,101 +131,324 @@ Azure, Scrum, Agile, Kanban, Lean, DevOps
 
 ---
 
-### **Tick & Live** *(Mai 2019 – Août 2019)*
-**Full Stack, Ingénieur d’étude et développement** *(Présentiel)*
-**Technologies :** ASP.Net MVC, SQL Server, Oracle, C#, JavaScript
-**Missions :**
-- Refonte annuelle du site de billetterie des 24 Heures du Mans.
-- Déploiement et tierce maintenance applicative.
+
+# Expériences Professionnelles
+
+## Coface
+- **Poste occupé** : Ingénieur d’étude et développement
+- **Projet** : Développement de la solution Onedesk pour le client « Coface »
+- **Missions** :
+  - Développement ASP.Net MVC et tests de non-régression
+  - Déploiement des applications
+  - Ré usinage des parties de codes impactées par les modifications
+- **Environnement** :
+  - Visual Studio 2019
+  - C#
+  - .Net Framework 4.0
+  - Razor
+  - MVC
+  - JavaScript
+  - HTML5
+  - CSS3
+  - SQL Server
+  - Visual Studio Team Services
+- **Période** : 09/2019 à Aujourd’hui
 
 ---
 
-### **FnacDarty** *(Septembre 2018 – Avril 2019)*
-**Développeur Full Stack** *(Présentiel)*
-**Technologies :** .Net MVC, SQL Server, C#, JavaScript, Biztalk 2010
-**Missions :**
-- Développement et maintenance des applications back-office.
-- Organisation des sprints et écriture des procédures de tests.
+
+## Meltour
+- **Poste occupé** : Ingénieur d’étude et développement
+- **Projet** : Ajout de nouvelles fonctionnalités au site existant
+- **Missions** :
+  - Développement ASP.Net MVC et tests de non-régression
+  - Tierce maintenance applicative
+- **Environnement** :
+  - Visual Studio 2019
+  - C#
+  - .Net Framework 4.0
+  - Razor
+  - MVC
+  - JavaScript
+  - HTML5
+  - CSS3
+  - SQL Server
+  - Visual Studio Team Services
+- **Période** : 09/2019 à Aujourd’hui
 
 ---
 
-### **Meltour** *(Septembre 2018 – Décembre 2022)*
-**Full Stack, Ingénieur d’étude et développement** *(Remote)*
-**Technologies :** SQL Server 2018, C#, Git, Visual Studio 2019
-**Missions :**
-- MCO et évolution du site principal de l’agence de voyage.
-- Webmastering et gestion ponctuelle de l’application.
+
+## SUEZ
+- **Poste occupé** : Ingénieur d’étude et développement
+- **Projet** : Évolution de la solution « Prévoir », de gestion du renouvellement des équipements des sites
+- **Missions** :
+  - Développement ASP.Net MVC et tests de non-régression
+  - Ré usinage des parties de codes impactées par les modifications
+- **Environnement** :
+  - Visual Studio 2019
+  - C#
+  - .Net Framework 4.5
+  - Razor
+  - MVC
+  - JavaScript
+  - HTML5
+  - CSS3
+  - SQL Server
+  - Visual Studio Team Services
+- **Période** : 10/2019 à 08/2020
 
 ---
 
-### **Ageas** *(Juin 2018 – Septembre 2018)*
-**Full Stack, Ingénieur d’étude et développement** *(Présentiel)*
-**Technologies :** SQL Server 2012, AngularJS 1.4, C#, TypeScript
-**Missions :**
-- Mise en place d’un produit de souscription aux assurances vie.
-- Réusinage du code existant.
+
+## Tick & Live
+- **Poste occupé** : Ingénieur d’étude et développement
+- **Projet** : Refonte du site de la billetterie des 24 Heures du Mans
+- **Missions** :
+  - Développement ASP.Net MVC et tests de non-régression
+  - Déploiement des applications
+  - Ré usinage des parties de codes impactées par les modifications
+  - Tierce maintenance applicative
+- **Environnement** :
+  - Visual Studio 2017
+  - C#
+  - .Net Framework 4.0
+  - Razor
+  - MVC
+  - JavaScript
+  - HTML5
+  - Oracle
+  - Visual Studio Team Services
+- **Période** : 04/2019 à 09/2019
 
 ---
 
-### **Keolis** *(Mars 2018 – Mai 2018)*
-**Full Stack, Ingénieur d’étude et développement** *(Présentiel)*
-**Technologies :** SQL Server 2012, SOAP, Jenkins, SonarQube, Bootstrap
-**Missions :**
-- Création d’un portail web de gestion des données référentielles.
-- Consommation de services SOAP et optimisation des appels.
+
+## FNAC
+- **Poste occupé** : Ingénieur d’étude et développement
+- **Projet** : Développement des nouveaux projets, pour la partie Back end des applications commerce de la FNAC (magasin et web)
+- **Missions** :
+  - Développement C# et tests de non-régression
+  - Déploiement des applications
+  - Organisation des sprints plannings
+  - Écriture des tâches et des procédures de tests
+  - Création de procédures stockées
+  - Préparation des releases
+  - Ré usinage des parties de codes impactées par les modifications
+  - Tierce maintenance applicative
+- **Environnement** :
+  - Visual Studio 2010
+  - C#
+  - .Net Framework 4.0
+  - Razor
+  - BizTalk 2010
+  - SQL Server Management Studio 2014
+  - Git
+  - Source Tree
+  - Visual Studio Team Services
+- **Période** : 04/2018 à 04/2019
 
 ---
 
-### **Areva** *(Janvier 2018 – Février 2018)*
-**Full Stack, Ingénieur d’étude et développement** *(Présentiel)*
-**Technologies :** ASP.NET MVC 4.5, SQL Server 2014, C#, XML
-**Missions :**
-- Création d’un outil de support pour le suivi des tickets en erreur.
-- Gestion multilingue et logs d’informations.
+
+## Ageas
+- **Poste occupé** : Ingénieur d’étude et développement
+- **Projet** : Mise en place d’un nouveau produit de souscription aux assurances vie
+- **Missions** :
+  - Adaptation d’IHM : page, directives, contrôleurs (AngularJS)
+  - Tierce maintenance applicative
+  - Ré usinage : réécriture de l’existant en code propre
+- **Environnement** :
+  - HTML5
+  - CSS3
+  - Less
+  - Bootstrap
+  - JavaScript
+  - Typescript 1.7
+  - AngularJS 1.4
+  - Visual Studio 2013
+  - C#
+  - .Net 4.6.1
+  - Razor
+  - Unity (IOC)
+  - BACPAC
+  - Entity Framework (Code First)
+  - SQL Server Management Studio 2012
+  - Git
+  - Source Tree
+  - Visual Studio Team Services
+- **Période** : 11/2017 à 04/2018
 
 ---
 
-### **Technip** *(Octobre 2017 – Décembre 2017)*
-**Full Stack, Ingénieur d’étude et développement** *(Présentiel)*
-**Technologies :** ASP.NET MVC4, Office 365, Exchange Web Service
-**Missions :**
-- Gestion des emails de facturation via Exchange Web Service.
-- Optimisation de la robustesse de l’application.
+
+## Keolis
+- **Poste occupé** : Ingénieur d’étude et développement
+- **Projet** : Mise en place d’un portail Web de gestion des données référentielles
+- **Missions** :
+  - Création d’IHM : page d’index, pages d’affichage des statistiques stockées dans la base de données distante
+  - Implémentation de la synchronisation des données application/web services
+  - Consommation de services SOAP, avec réception et envoi de contenu XML
+  - Ajout de nouvelles routes à la WebApi de l’application
+  - Ré usinage : optimisation des appels à la base de données locale, et au web service
+  - Intégration HTML : amélioration du comportement des grilles
+  - Publication du site dans les environnements de production et de test chez le client
+- **Environnement** :
+  - HTML5
+  - CSS3
+  - Less
+  - Bootstrap
+  - JavaScript
+  - Typescript 1.7
+  - JQuery Handsontable
+  - Visual Studio 2015
+  - C#
+  - .Net 4.6.1
+  - Razor
+  - Log4Net
+  - Unity (IOC)
+  - Mapster (mapping)
+  - Entity Framework (Code First)
+  - Web service SOAP
+  - SQL Server Management Studio 2012
+  - SonarQube
+- **Période** : 08/2017 à 11/2017
 
 ---
 
-### **Groupe FLO** *(Mai 2017 – Septembre 2017)*
-**Full Stack, Ingénieur d’étude et développement** *(Présentiel)*
-**Technologies :** MySQL, ASP.NET MVC 5, Entity Framework 6
-**Missions :**
-- Dématérialisation des pièces de caisse pour un stockage centralisé.
-- Développement d’un site web avec Entity Framework Code First.
+## Saretec
+- **Poste occupé** : Ingénieur d’étude et développement
+- **Projet** : Poursuite du développement de l’application « Sésame 3 »
+- **Missions** :
+  - Responsable du développement de l’application périphérique « Insertion »
+  - Recette et livraison d’une première version exploitable
+  - Ré usinage : optimisation du code existant
+  - Migration du serveur (écrit en C#) vers une nouvelle architecture
+  - Revue du code des autres applications
+- **Environnement** :
+  - Visual Studio Team System (VSTS)
+  - Visual Studio 2015
+  - SSMS 2012
+  - HTML5
+  - CSS3
+  - Less
+  - WinJS
+  - Typescript 1.7
+  - Jenkins
+  - SonarQube
+  - SCRUM
+- **Période** : 01/2017 à 07/2017
 
 ---
 
-### **Saretec** *(Septembre 2016 – Avril 2017)*
-**Full Stack, Ingénieur d’étude et développement** *(Présentiel)*
-**Technologies :** SQL Server 2012, WinJS, Visual Studio 2015, SCRUM
-**Missions :**
-- Développement de l’application Sésame 3 (Windows 10).
-- Optimisation du code et migration du serveur.
+
+## Areva
+- **Poste occupé** : Ingénieur d’étude et développement
+- **Projet** : Création d’un nouvel outil de support, pour suivi des tickets en erreur
+- **Missions** :
+  - Création d’une application web avec comme contraintes : Logs d’informations assez explicites
+  - Consommation du flux d’informations déjà utilisé par une application existante
+  - Gestion de différentes langues d’utilisation de l’outil (anglais et français)
+- **Environnement** :
+  - Visual Studio 2015
+  - ASP.NET MVC 4.5
+  - SQL Server 2014
+  - Log4Net
+  - HTML5
+  - CSS3
+  - Bootstrap
+  - Sitefinity
+  - XML
+  - Webform
+- **Période** : 10/2016 à 11/2016
 
 ---
 
-### **Areas** *(Janvier 2016 – Août 2016)*
-**Full Stack, Ingénieur d’étude et développement** *(Présentiel)*
-**Technologies :** Angular JS, Visual Studio 2015, REST
-**Missions :**
-- Création d’un outil web pour tablette avec IHM tactile.
+
+## Technip
+- **Poste occupé** : Ingénieur d’étude et développement
+- **Projet** : Gestion des emails de facturation de l’entreprise
+- **Missions** :
+  - Upgrade de l’application par filtrage des mails, puis redirection des réponses
+  - Ajout de logs de description des étapes suivi par l’application
+  - Optimisation de la robustesse de l’application
+- **Environnement** :
+  - Visual Studio 2015
+  - .NET4.5
+  - Log4Net
+  - XML
+  - Office 365
+  - Exchange Web Service
+- **Période** : 08/2016 à 12/2016
 
 ---
 
-### **UNHAJ / WEBOUCHERIE / E.LECLERC** *(Juin 2014 – Décembre 2015)*
-**Full Stack, Ingénieur d’étude et développement** *(Présentiel)*
-**Technologies :** ASP.NET MVC4, Azure, NHibernate
-**Missions :**
-- Tierce maintenance applicative et optimisation UX.
-- Publication du site sur Azure.
+
+## Groupe FLO
+- **Poste occupé** : Ingénieur d’étude et développement
+- **Projet** : Dématérialisation des pièces de caisse, du géant de la restauration « Groupe FLO »
+- **Missions** :
+  - Développement d’un site web
+  - Mise en place de l’architecture de l’application
+  - Création de la base de données via Entity Framework 6 Code First
+  - IHM, de gestion, de paramétrages de l’application, et de recherche de documents
+  - Création d’un service local d’envoi périodique des données à la centrale
+- **Environnement** :
+  - Visual Studio 2015
+  - .NET4.5
+  - ASP.NET MVC 5
+  - WEB API2
+  - jQuery
+  - HTML5
+  - CSS3
+  - MySQL
+  - MySQL Workbench
+  - Entity Framework 6
+  - Service Windows
+- **Période** : 06/2016 à 12/2016
+
+---
+
+
+## Areas
+- **Poste occupé** : Ingénieur d’étude et développement
+- **Projet** : Création d’un outil de collecte d’informations, pour les agents d’AREAS Assurance
+- **Missions** :
+  - Développement d’une application universelle Windows 10 avec AngularJS
+  - Création d’IHM adaptées à l’ergonomie tactile
+  - Consommation, validation et envoi des données via des services REST
+  - Visite de validation chez le client
+- **Environnement** :
+  - Angular JS
+  - Typescript
+  - jQuery
+  - HTML5
+  - CSS3
+  - Less
+  - JSON
+- **Période** : 01/2016 à 06/2016
+
+---
+
+## UNHAJ / WEBOUCHERIE / E.LECLERC
+- **Poste occupé** : Ingénieur d’étude et développement
+- **Projet** : Tierce maintenance applicative
+- **Missions** :
+  - Optimisation de l’expérience utilisateur
+  - Optimisation de la gestion des nouveaux produits sur Azure
+  - Publication du site sur Azure
+- **Environnement** :
+  - C#
+  - ASP.NET MVC4
+  - JavaScript
+  - HTML
+  - CSS3
+  - NHibernate
+  - Azure
+- **Période** : 08/2015 à 11/2015
+
+
+
 
 ---
 
