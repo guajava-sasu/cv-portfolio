@@ -9,6 +9,7 @@
 Architecte, Développeur Fullstack et Techlead avec **11+ ans d’expérience** dans les environnements :
 **.NET (Core, MVC, Sql Server)** et **TypeScript (React, Vue, Angular, Node)**.
 Spécialisé en **architectures orientées données**, intégration d’API et optimisation des performances, maintenance et modernisation d’applications.
+Connaissances serveur **Linux Ubuntu** étendue.
 **Certifié MongoDB** (Developer Associate, Data Modeler Associate, Database Administrator).
 Domaines : banque, assurance, e-commerce, grande distribution, énergie, restauration.
 
