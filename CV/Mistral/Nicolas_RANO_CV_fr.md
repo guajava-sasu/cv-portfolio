@@ -1,6 +1,6 @@
 # Nicolas RANO - Architecte Logiciel Fullstack Senior
 
-Paris, France (UTC+1/UTC+2) | guajavasas@gmail.com | +33 684266132
+Paris, France (UTC+1/UTC+2) | guajavasas@gmail.com | +33 0 684266132
 LinkedIn | GitHub
 
 ## Résumé professionnel
@@ -8,14 +8,14 @@ Architecte Logiciel Fullstack Senior avec 11 ans d’expérience dans la concept
 
 ## Compétences
 - Méthodologies Agile : Scrum, Kanban, élaboration de backlogs, planification de sprints, livraison incrémentale.
-- DevOps & Automatisation : Git, CI/CD (YAML, Azure DevOps), Docker, Jenkins.
-- Langages : Python, C#, Java, TypeScript, React, Vue.js, Angular, SQL.
-- Systèmes : Linux (Ubuntu), Windows.
+- DevOps & Automatisation : Git, CI/CD (YAML, Azure DevOps), Docker, Jenkins, Github Actions, Github.
+- Langages : Python, C#, Java, TypeScript, React, Vue.js, Angular, SQL, Fortran, C, C++.
+- Systèmes : Linux (Ubuntu, gestion de VPS sur Hostinger), Windows, Mac OSX.
 - Génie logiciel : Ingénierie des exigences, tests unitaires/non-régression, optimisation des performances.
 - Collaboration : Support utilisateurs, formation, gestion de sous-traitance.
 - Bases de données : MongoDB, SQL Server, Oracle.
 - Monitoring : SQL Server Profiler, MongoDB Atlas Monitoring.
-- Méthodes : Clean Architecture, TDD (notions).
+- Méthodes : Clean Architecture, Clean Code, TDD (notions).
 
 ## Certifications
 - MongoDB Associate Database Administrator — MongoDB (10/2025)
@@ -23,6 +23,7 @@ Architecte Logiciel Fullstack Senior avec 11 ans d’expérience dans la concept
 - MongoDB Associate Developer — MongoDB (09/2025)
 - Exam 70-480: Programming in HTML5 with JavaScript and CSS3 — Microsoft (10/2017)
 - [PCEP-30-02] PCEPTM - Certified Entry-Level Python Programmer — Python Institute (11/2025)
+- AZ-900: Microsoft Certified : Principes de base d’Azure (12/2025)
 
 ## Expériences professionnelles
 - Définition de l'architecture applicative (front / back / infra / déploiement) et élaboration de spécifications fonctionnelles détaillées pour préciser les besoins.
@@ -66,7 +67,7 @@ Architecte Logiciel Fullstack Senior avec 11 ans d’expérience dans la concept
 
 ## Langues
 - Français (Langue maternelle)
-- Créoles à base française (Langue maternelle)
+- Créoles à base française
 - Anglais (Courant, TOEIC 850)
 - Espagnol (Intermédiaire)
 
